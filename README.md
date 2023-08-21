@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]([https://codestackr.com](https://abbasali123.github.io/abbas-portfol/)#gh-light-mode-only)
-[![website](./img/globe-dark.svg)]([https://codestackr.com](https://abbasali123.github.io/abbas-portfol/)#gh-dark-mode-only)
+[![website](./img/globe-light.svg)]([https://abbasali123.github.io/abbas-portfol/]#gh-light-mode-only)
+[![website](./img/globe-dark.svg)]([https://abbasali123.github.io/abbas-portfol/]gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AbbasWebDev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AbbasWebDev#gh-dark-mode-only)
