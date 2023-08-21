@@ -23,8 +23,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/abbas-ali123#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abbas-ali123r#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/medium-light.svg)](https://medium.com/@abbasashraff12313#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@abbasashraff12313#gh-dark-mode-only)
 
 ### Languages and Tools:
 
