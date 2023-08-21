@@ -52,7 +52,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Part 1: Introduction to Design Patterns in React](https://medium.com/@abbasashraff12313/part-1-introduction-to-design-patterns-in-react-f3e5a1d105cc)
 - [Part 2: Creational Design Patterns](https://medium.com/@abbasashraff12313/part-2-creational-design-patterns-5c6f7f0a9617)
-- [Part 3: Structural Design Patterns]([https://medium.com/@abbasashraff12313/part-3-structural-design-patterns-e9344bdddafb]))
+- [Part 3: Structural Design Patterns]([https://medium.com/@abbasashraff12313/part-3-structural-design-patterns-e9344bdddafb])
 - [Part 4: Behavioral Design Patterns]([https://medium.com/@abbasashraff12313/part-4-behavioral-design-patterns-615342e01146])
 - [Part 5: Conclusion and Future Directions](https://medium.com/@abbasashraff12313/part-5-conclusion-and-future-directions-7595aabf1503)
 <!-- BLOG-POST-LIST:END -->
